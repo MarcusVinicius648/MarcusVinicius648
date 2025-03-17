@@ -1,18 +1,23 @@
-### Hello! I’m a Control and Automation Engineering student at UFOP and a Computer Technician from IFMG. I have hands-on experience in programming and electrical systems, applying my knowledge to academic and professional projects.
+👋 Hello!
+I'm a Control and Automation Engineering student at UFOP and a Computer Technician from IFMG. Passionate about technology, programming, and innovation, I have experience in software development, automation, and embedded systems.
 
-💻 Software Development & Automation
+💻 Technical Skills
+🔹 Programming Languages: Python | C++ | Java | JavaScript
+🔹 Frameworks & Tools: React Native | Node.js | React.JS
+🔹 Embedded Systems: Microcontrollers | Digital Systems 
 
-Experience with React Native, Node.js, and mobile development.
-Worked on app development, handling both front-end and back-end.
-Focus on automation of processes for scientific experiments.
-
-🔬 Research & Scientific Initiatives
-
-Research in materials physics and structural characterization.
-Automation of a reactor for material synthesis.
-Published a scientific article and presented at academic events.
+🔬 Research & Development
+🚀 Developed applications with React Native and Node.js, handling both front-end and back-end.
+⚡ Experience in automating processes and systems for scientific applications.
+🧪 Research in materials physics and reactor automation for material synthesis.
 
 📌 Interests
-Currently, I am focusing on IA and embedded systems, always seeking new challenges in engineering, programming, and technological innovation.
+I am always looking to expand my knowledge in:
+✔️ Embedded Systems & IoT – Microcontrollers, FPGA, real-time applications.
+✔️ Artificial Intelligence & Computer Vision – Machine learning models, deep learning, and automation.
+✔️ Software Development – Mobile and web applications, high-performance computing.
+✔️ Data Science & Analytics – Data processing, visualization, and predictive modeling.
 
-🚀 Always open to new collaborations and projects!
+"Innovating through code, automation, and intelligence." ⚡
+
+🚀 Let's build something amazing together! Feel free to connect!
